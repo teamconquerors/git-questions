@@ -1,0 +1,60 @@
+
+1. What is git?
+  Ans. Git is an open source Distributed Version Control System (DVCS) which records changes made to the files 
+  laying emphasis on the speed, data integrety, and distributed, non-linear workflow.
+  Git manages our application Development and Versioning
+2. What is the difference between git and github?
+3. What is the meaning of DVCS?
+4. What is the abbreviation of SCM?
+5. Write down 5 SCM names?
+6. What is git Branch?
+7. What is git tag?
+8. What is the difference between Branch and Tag in Git?
+9. When will you create a branch and when will you create a tag?
+10. What does “git add” command do?
+11. What is the command to revert the code from staging area to working area?
+12. What does git revert command achieve?
+13. What is the difference between git fetch and git pull?
+14. Which commands displays all branches currently available in git repo (local and 
+remote)?
+15. What is the command to create a branch?
+16. How do we switch from branch to another branch?
+17. What command delete a branch in the local repo?
+18. What command delete a branch in the remote repo?
+19. What is the branching strategy you are following in Landmark Technologies?
+20. What is git stash command and what does it achieve?
+21. What is git cherry-pick and what does it do ?
+22. What is git rebase?
+23. What is PAT?
+24. What is SSH key and how do you generate ssh-key? Explain your experince using 
+openSSH?
+25. What is the default path for ssh keys?
+26. How many file will generate if you create ssh keys and what are the file names?
+27. What is the difference between git & GitHub?
+28. What are they git best practices while committing code WHICH need to be 
+follow?
+29. How to change git commit message after push (given that no one pulled from 
+remote)?
+30. How to rename the branch name?
+31. What is the command to get the code from remote git repo?
+32. How to check the particular branch from github?
+33. What is the command to see all git messages in local repo?
+34. How to create a repository in git?
+35. How to check if a branch is already merged with any branch or not?
+36. What is SubGit?
+37. In Which language is Git developed?
+38. What is the difference between git merge and git rebase?
+39. What is the difference between git reset and git revert?
+40. Explain the git workflow?
+41. What is merge conflicts? Have you resolved any merge conflicts in your projects?
+42. How do we see how many files are committed in one particular commit id?
+43. What is github-webhook? Can you name some git hooks?
+44. What is .gitignore file?
+45. Explain how controls are configured in git the remote repositories of your current 
+project and why?
+46. Explain you git branching strategy?
+47. What is git bare and git nonbare repository, use cases? 
+48. What is the git command to create the achieve files? 
+49. What is git prune, Mirroring and git repack commands and What are the git objects? 
+50. Explain how controls are configured in git the remote repositories of your current project and why? 
+51. How git best practices and branching strategy? 
